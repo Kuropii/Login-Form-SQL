@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(40,40,44);
+}
+.container{
+    margin-top: 150px;
+}
+.input{
+    max-width: 300px;
+    min-width: 300px
+}
